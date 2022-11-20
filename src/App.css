@@ -1,0 +1,113 @@
+/* .main{
+  box-sizing: border-box;
+  border: solid rgb(76, 75, 75) .3rem;
+  border-radius: 1rem;
+  text-align: center;
+  margin: auto;
+  margin-top: 5rem;
+  width: 50%;
+  min-height: 70vh;
+  overflow: auto;
+  padding: 1rem;
+  justify-content: center;
+  background-color: rgb(60, 60, 60);
+  font-family: 'Arial Narrow', Arial, sans-serif;
+   color: antiquewhite;
+}
+
+
+body{
+  background-color: rgb(40, 40, 40);
+}
+.table{
+  width: 100%;
+  border: dashed rgb(190, 189, 189) .2rem;
+  padding: .3rem;
+  margin: .5rem;
+  font-size: 1.2rem;
+}
+.heading{
+  margin: 0.7rem;
+  padding: .3rem;
+  font-size: 3rem;
+  border: solid .1rem;
+  border-radius: 2rem;
+}
+
+button {
+  border-radius: 1rem;
+  background-color:green;
+  font-weight: bold;
+  text-align: center;
+  border:none;
+  padding: .3rem .5rem .3rem .5rem;
+  transition-duration: 0.4s;
+  color: antiquewhite;
+
+}
+
+button:hover {
+  background-color: rgb(2, 76, 2); 
+}
+.delbtn{
+  border-radius: 1rem;
+  background-color: rgb(201, 5, 5);
+  font-weight: bold;
+  text-align: center;
+  border:none;
+ transition-duration: 0.4s;
+}
+.delbtn:hover {
+  background-color: rgb(160, 6, 6);
+}
+form{
+  padding: 1rem;
+  text-align: left;
+}
+input{
+  display: flex;
+  width: 90%;
+  border: lightblue .1rem solid;
+  padding: .3rem;
+  border-radius: .3rem;
+  margin-top: .2rem;
+  
+}
+.disp{
+  background-color:black;
+ 
+
+}
+.subheadhome{
+  display: inline;
+  font-weight: bold;
+  border-bottom: solid .1rem;
+  margin-left: 5rem;
+ 
+}
+.subheadadd{
+  display: inline;
+  font-weight: bold;
+  border-bottom: solid .1rem;
+
+}
+.navbtn-add{
+
+display: flex;
+float: right;
+}
+.navbtn-home{
+  display: flex;
+  float: left;
+  }
+  @media screen and (max-width: 480px) {
+     .main{
+      width: 100%;
+       }
+  } */
+
+body {
+  /* background-color: black; */
+  margin: 0;
+  padding: 0;
+}
