@@ -5,7 +5,7 @@ import './App.css';
 import { useState } from 'react';
 export default function App() {
   const [theme, setTheme] = useState({ bg: "dark", text: "light" })
-  const [btnName, setbtnName] = useState(false)
+  const [btnName, setbtnName] = useState(true)
   const ThemeHandler = () => {
     btnName ? setTheme({ bg: "light", text: "dark" }) : setTheme({ bg: "dark", text: "light" })
     btnName ? setbtnName(false) : setbtnName(true)
